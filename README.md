@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiwikewl73
-- 👀 I’m interested in cloud technoogies that solve a business challenges
+- 👀 I’m interested in cloud technoogies to solve business challenges
 - 🌱 I’m currently learning terraform
 - 💞️ I’m looking to collaborate on improving automation
 - 📫 How to reach me itlabsnz@gmail.com
